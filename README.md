@@ -411,7 +411,7 @@ The SQL analysis focused on areas such as:
 The SQL queries are included in:
 
 ```text
-sql/customer_behavior.sql
+sql/customer_behavior_queries.sql
 ```
 
 ---
@@ -550,7 +550,7 @@ Contains SQL queries used for business analysis.
 File:
 
 ```text
-sql/customer_behavior.sql
+sql/customer_behavior_queries.sql
 ```
 
 ### 3. Power BI Dashboard
@@ -580,7 +580,7 @@ Presentation created using Gamma to communicate the project, analysis, insights,
 File:
 
 ```text
-presentation/Customer_Behavior_Analytics_Presentation.pdf
+presentation/Customer_Behavior_Analytics_Presentation.pptx
 ```
 
 ---
@@ -631,7 +631,7 @@ The project was developed around a retail customer behavior business problem.
 ## Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Customer-Behavior-Analytics.git
+git clone https://github.com/suryawanshisai/Customer-Behavior-Analytics.git
 ```
 
 Move into the project directory:
@@ -675,7 +675,7 @@ Update the file path in the Jupyter Notebook if required.
 Open:
 
 ```text
-python/customer_behavior_analysis.ipynb
+python/Customer_Shopping_Behavior_Analysis.ipynb
 ```
 
 Run the notebook cells in order.
@@ -769,7 +769,7 @@ The report provides detailed documentation of the project and its findings.
 Open:
 
 ```text
-presentation/Customer_Behavior_Analytics_Presentation.pdf
+presentation/Customer_Behavior_Analytics_Presentation.pptx
 ```
 
 The presentation summarizes the business problem, methodology, analysis, dashboard, insights, and recommendations.
