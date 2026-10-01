@@ -456,7 +456,8 @@ Users can interact with the dashboard using filters for:
 
 ## 📸 Dashboard Preview
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](https://github.com/suryawanshisai/Customer-Behavior-Analysis/blob/main/dashboard.png)
+
 
 ---
 
@@ -623,7 +624,7 @@ Customer-Behavior-Analytics/
 
 The project was developed around a retail customer behavior business problem.
 
-![Business Problem Statement](images/business_problem.png)
+![Business Problem Statement](https://github.com/suryawanshisai/Customer-Behavior-Analysis/blob/main/business_problem.png)
 
 ---
 
