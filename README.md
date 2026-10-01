@@ -1,19 +1,6 @@
 # Customer-Behavior-Analysis
 An end-to-end Data Analytics project using Python, PostgreSQL, SQL and Power BI.
 
-## 📸 Dashboard Preview
-
-![Customer Behavior Dashboard](https://github.com/suryawanshisai/Customer-Behavior-Analysis/blob/main/dashboard.png)
-
----
-
-# 🖼️ Business Problem
-
-The project was developed around a retail customer behavior business problem.
-
-![Business Problem Statement](https://github.com/suryawanshisai/Customer-Behavior-Analysis/blob/main/business_problem.png)
-
-
 ## 📌 Project Overview
 
 **Customer Behavior Analysis** is an end-to-end **Data Analytics project** focused on analyzing customer shopping behavior to identify purchasing patterns, customer preferences, product trends, and factors influencing consumer decisions.
