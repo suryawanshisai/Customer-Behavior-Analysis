@@ -1,7 +1,7 @@
 # Customer-Behavior-Analysis
 An end-to-end Data Analytics project using Python, PostgreSQL, SQL and Power BI.
 
-![Customer Behavior Dashboard](images/dashboard.png)
+![Customer Behavior Dashboard](https://github.com/suryawanshisai/Customer-Behavior-Analysis/blob/main/customer_behavior_dashboard.pbix)
 
 
 # Customer Behavior Analytics
